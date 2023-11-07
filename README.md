@@ -21,3 +21,10 @@ mvn spring-boot:build-image
 install docker
 docker machine
 dism.exe /online /enable-feature /featurename:Microsoft-Windows-Subsystem-Linux /all /norestart
+
+
+https://bobbyhadz.com/blog/docker-is-not-recognized-as-internal-or-external-command#:~:text=If%20you%20get%20a%20permissions,click%20%22Run%20as%20administrator%22.
+
+https://docs.docker.com/desktop/install/windows-install/
+
+https://www.atlassian.com/git/tutorials/syncing/git-fetch?fbclid=IwAR0d5PmjTf9ujavf-6OV911jLFJJedL3_NdIrwA2aclaAPy34DfOzkiFgg8
