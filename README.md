@@ -1,6 +1,12 @@
 # DockerForJava
 Working with docker in Java Spring MVC
 
+git clone
+git checkout
+git add .
+git push
+git branch
+
 mvn -v
 java --version  17 with spring marven
 
