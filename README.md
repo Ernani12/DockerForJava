@@ -20,6 +20,9 @@ mvn spring-boot:build-image
 
 install docker
 docker machine
+
+docker run grafico:0.0.1-SNAPSHOT
+docker.io/library/grafico:0.0.1-SNAPSHOT
 dism.exe /online /enable-feature /featurename:Microsoft-Windows-Subsystem-Linux /all /norestart
 
 
