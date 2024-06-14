@@ -1,4 +1,4 @@
-# DockerForJava
+# DockerForJava (projeto para simular uso de docker em Java Spring e manipular imagem)
 Working with docker in Java Spring MVC
 
 git clone
